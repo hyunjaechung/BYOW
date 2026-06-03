@@ -1,4 +1,4 @@
-# Build Your Own World(BYOW)tt
+# Build Your Own World(BYOW)
 
 ## BYOW is a 2D tile-based engine which generates explorable worlds
 <img width="1281" alt="Screen Shot 2022-02-13 at 1 51 15 AM" src="https://user-images.githubusercontent.com/84891930/153747759-fe27c194-b964-4789-8027-c5e02ed4b746.png">
